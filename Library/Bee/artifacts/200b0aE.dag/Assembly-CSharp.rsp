@@ -350,9 +350,16 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/FirstPersonDrifter.cs"
-"Assets/Scripts/LockMouse.cs"
-"Assets/Scripts/MouseLook.cs"
+"Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs"
+"Assets/First Person Drifter Controller/Scripts/LockMouse.cs"
+"Assets/First Person Drifter Controller/Scripts/MouseLook.cs"
+"Assets/First Person Drifter Controller/Scripts/Optional/CameraFadeOnStart.cs"
+"Assets/First Person Drifter Controller/Scripts/Optional/CameraZoom.cs"
+"Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs"
+"Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs"
+"Assets/First Person Drifter Controller/Scripts/Optional/PauseMenu.cs"
+"Assets/First Person Drifter Controller/Scripts/Utils/CameraFade.cs"
+"Assets/script/barWarp.cs"
 -langversion:9.0
 
 /deterministic
