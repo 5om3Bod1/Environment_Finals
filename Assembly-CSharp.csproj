@@ -58,16 +58,57 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\script\present\graveDig.cs" />
+    <Compile Include="Assets\script\relicWarp.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\FirstPersonDrifter.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\CheckIfBelowLevel.cs" />
+    <Compile Include="Assets\script\past\wireDoor.cs" />
+    <Compile Include="Assets\script\present\helperText.cs" />
+    <Compile Include="Assets\script\present\girlText.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\PauseMenu.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\Utils\CameraFade.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\LockMouse.cs" />
+    <Compile Include="Assets\script\present\witchDoor.cs" />
+    <Compile Include="Assets\script\punk.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\CameraZoom.cs" />
-    <Compile Include="Assets\script\barWarp.cs" />
+    <Compile Include="Assets\script\gardener.cs" />
+    <Compile Include="Assets\script\past\thiefText.cs" />
+    <Compile Include="Assets\script\present\witchSign.cs" />
+    <Compile Include="Assets\script\present\shovelRoof.cs" />
+    <Compile Include="Assets\script\past\thiefDoor.cs" />
+    <Compile Include="Assets\script\past\pastDoor.cs" />
+    <Compile Include="Assets\script\past\correctGrave.cs" />
+    <Compile Include="Assets\script\present\shopKeeper.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\HeadBob.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\MouseLook.cs" />
     <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\CameraFadeOnStart.cs" />
+    <Compile Include="Assets\script\present\witchText.cs" />
+    <Compile Include="Assets\script\present\shopDoor.cs" />
+    <Compile Include="Assets\script\past\wireCutter.cs" />
+    <Compile Include="Assets\script\present\girl1Text.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
